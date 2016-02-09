@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT musicLibrary (artist)*>
+<!ELEMENT artist (album)+>
+<!ELEMENT album (songs, releaseDate, genre)>
+<!ELEMENT songs (song)+>
+<!ELEMENT song (title,duration,rating)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT rating EMPTY>
+<!ELEMENT releaseDate (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ATTLIST artist
+  name CDATA #REQUIRED>
+<!ATTLIST album
+  name CDATA #REQUIRED>
+<!ATTLIST song
+  number CDATA #REQUIRED>
+<!ATTLIST rating
+    stars CDATA #REQUIRED>

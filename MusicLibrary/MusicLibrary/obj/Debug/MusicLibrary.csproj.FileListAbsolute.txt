@@ -1,0 +1,45 @@
+C:\Users\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.config
+D:\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.config
+D:\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+D:\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+D:\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojResolveAssemblyReference.cache
+D:\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLib.resources
+D:\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
+D:\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.Cache
+D:\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe
+D:\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
+H:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.config
+H:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe
+H:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
+H:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+H:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+H:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojResolveAssemblyReference.cache
+H:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLib.resources
+H:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
+H:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.Cache
+F:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.config
+F:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe
+F:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
+F:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+F:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+F:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojResolveAssemblyReference.cache
+F:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLib.resources
+F:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
+F:\School\XML - CIS189\Homework\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.Cache
+C:\Users\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe
+C:\Users\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
+C:\Users\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+C:\Users\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+C:\Users\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojResolveAssemblyReference.cache
+C:\Users\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLib.resources
+C:\Users\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
+C:\Users\phamner\Documents\Visual Studio 2010\Projects\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.Cache
+C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.config
+C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe
+C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
+C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLib.resources
+C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
+C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.Cache

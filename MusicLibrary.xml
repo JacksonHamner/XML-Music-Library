@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="music.xslt"?>
+<musicLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="music.xsd">
+  <artist name="Queen">
+    <album name="Greatest Hits">
+      <songs>
+        <song number="1">
+          <title>Bohemian Rhapsody</title>
+          <duration>5:56</duration>
+          <rating stars="5" />
+        </song>
+        <song number="2">
+          <title>Another One Bites the Dust</title>
+          <duration>3:36</duration>
+          <rating stars="4" />
+        </song>
+        <song number="3">
+          <title>Killer Queen</title>
+          <duration>2:57</duration>
+          <rating stars="5" />
+        </song>
+        <song number="4">
+          <title>Fat Bottomed Girls</title>
+          <duration>3:16</duration>
+          <rating stars="3" />
+        </song>
+        <song number="5">
+          <title>Bicycle Race</title>
+          <duration>3:01</duration>
+          <rating stars="4" />
+        </song>
+        <song number="6">
+          <title>You're My Best Friend</title>
+          <duration>3:16</duration>
+          <rating stars="3" />
+        </song>
+        <song number="7">
+          <title>Don't Stop Me Now</title>
+          <duration>3:29</duration>
+          <rating stars="5" />
+        </song>
+        <song number="8">
+          <title>Save Me</title>
+          <duration>3:16</duration>
+          <rating stars="3" />
+        </song>
+        <song number="9">
+          <title>Crazy Little Thing Called Love</title>
+          <duration>2:42</duration>
+          <rating stars="4" />
+        </song>
+        <song number="10">
+          <title>Somebody to Love</title>
+          <duration>4:56</duration>
+          <rating stars="3" />
+        </song>
+        <song number="11">
+          <title>Now I'm Here</title>
+          <duration>4:10</duration>
+          <rating stars="3" />
+        </song>
+        <song number="12">
+          <title>Good Old-Fashioned Lover Boy</title>
+          <duration>2:54</duration>
+          <rating stars="4" />
+        </song>
+        <song number="13">
+          <title>Play the Game</title>
+          <duration>3:33</duration>
+          <rating stars="2" />
+        </song>
+        <song number="14">
+          <title>Flash</title>
+          <duration>2:48</duration>
+          <rating stars="3" />
+        </song>
+        <song number="15">
+          <title>Seven Seas of Rhye</title>
+          <duration>2:47</duration>
+          <rating stars="4" />
+        </song>
+        <song number="16">
+          <title>We Will Rock You</title>
+          <duration>2:01</duration>
+          <rating stars="4" />
+        </song>
+        <song number="17">
+          <title>We Are the Champions</title>
+          <duration>2:59</duration>
+          <rating stars="3" />
+        </song>
+      </songs>
+      <releaseDate>11/26/1981</releaseDate>
+      <genre>Rock</genre>
+      <producers>
+        <producer>Queen</producer>
+        <producer>various</producer>
+      </producers>
+      <labels>
+        <label>Parlophone</label>
+      </labels>
+    </album>
+    
+    <album name="The Game">
+      <songs>
+      <song number="1">
+        <title>Play the Game</title>
+        <duration>3:30</duration>
+        <rating stars="3"></rating>
+      </song>
+
+      <song number="2">
+        <title>Dragon Attack</title>
+        <duration>4:18</duration>
+        <rating stars="3"></rating>
+      </song>
+
+      <song number="3">
+        <title>Another One Bites the Dust</title>
+        <duration>3:35</duration>
+        <rating stars="4"></rating>
+      </song>
+
+      <song number="4">
+        <title>Need Your Loving Tonight</title>
+        <duration>2:50</duration>
+        <rating stars="2"></rating>
+      </song>
+
+      <song number="5">
+        <title>Crazy Little Thing Called Love</title>
+        <duration>2:50</duration>
+        <rating stars="2"></rating>
+      </song>
+      </songs>
+
+      <releaseDate>07/27/1980</releaseDate>
+      <genre>Rock</genre>
+
+    </album>
+  
+  </artist>
+  <artist name="Red Hot Chilli Peppers">
+    <album name="Stadium Arcadium">
+      <songs>
+        <song number="1">
+          <title>Dani California</title>
+          <duration>4:42</duration>
+          <rating stars="3" />
+        </song>
+        <song number="2">
+          <title>Snow (Hey Oh)</title>
+          <duration>5:37</duration>
+          <rating stars="4" />
+        </song>
+        <song number="3">
+          <title>Charlie</title>
+          <duration>4:37</duration>
+          <rating stars="3" />
+        </song>
+      </songs>
+      <releaseDate>04/04/2008</releaseDate>
+      <genre>Rock</genre>
+    </album>
+  </artist>
+  <artist name="TestArtist">
+    <album name="TestAlbum">
+      <songs>
+        <song number="1">
+          <title>testSong</title>
+          <duration>1:00</duration>
+          <rating stars="5" />
+        </song>
+      </songs>
+      <releaseDate>02/06/1939</releaseDate>
+      <genre>Jazz</genre>
+    </album>
+    <album name="TestAlbum2">
+      <songs />
+      <releaseDate>05/12/1988</releaseDate>
+      <genre>African</genre>
+    </album>
+  </artist>
+</musicLibrary>

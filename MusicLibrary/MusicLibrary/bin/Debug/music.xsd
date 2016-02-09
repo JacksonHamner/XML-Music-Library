@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:annotation>
+    <xsd:documentation>
+      Schema for Music collection
+    </xsd:documentation>
+  </xsd:annotation>
+  
+  <xsd:element name="musicLibrary" type="musicType"/>
+  
+  <xsd:complexType name="musicType">
+    <xsd:sequence>
+      <xsd:element name="artist" type="artistType"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="artistType">
+    <xsd:all>
+      <xsd:element name="album" type="albumType"/>
+    </xsd:all>
+   <xsd:attribute name="name" type="xsd:string"  use="optional" default="Unknown Album"/>
+  </xsd:complexType>
+
+
+  <xsd:complexType name="albumType">
+    <xsd:sequence>
+      <xsd:element name="songs">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="song" type="songType"/>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="releaseDate" type="xsd:rDateType"/>
+      <xsd:element name="genre" type="genreType"/>
+    </xsd:sequence>
+   <xsd:attribute name="name" type="xsd:string" use="required" />
+  </xsd:complexType>
+
+  <xsd:complexType name="songType">
+    <xsd:sequence>
+      <xsd:element name="title" type="xsd:string"/>
+      <xsd:element name="duration" type="xsd:time"/>
+      <xsd:element name="rating" type="ratingType" minOccurs="1" default="1"/>
+    </xsd:sequence>
+    <xsd:attribute name="number" type="xsd:integer" use="required"/>
+  </xsd:complexType>
+
+  <xsd:simpleType name="rDateType">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9]*[1-9]/[0-9][1-9]/[0-9][0-9][0-9][1-9]"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  
+  <xsd:simpleType name="genreType">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="African"/>
+      <xsd:enumeration value="Avant-Garde"/>
+      <xsd:enumeration value="Blues"/>
+      <xsd:enumeration value="Latin American"/>
+      <xsd:enumeration value="Comedy"/>
+      <xsd:enumeration value="Country"/>
+      <xsd:enumeration value="Asian"/>
+      <xsd:enumeration value="Easy Listening"/>
+      <xsd:enumeration value="Electronic"/>
+      <xsd:enumeration value="Folk"/>
+      <xsd:enumeration value="Hip Hop"/>
+      <xsd:enumeration value="Jazz"/>
+      <xsd:enumeration value="Pop"/>
+      <xsd:enumeration value="R&amp;B"/>
+      <xsd:enumeration value="Rock"/>
+      <xsd:enumeration value="Ska"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  
+<xsd:simpleType name="ratingType" >
+  <xsd:restriction base="xsd:string">
+    <xsd:pattern value="[1-5]"/>
+  </xsd:restriction>
+</xsd:simpleType>
+</xsd:schema>
+
