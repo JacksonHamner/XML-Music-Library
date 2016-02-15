@@ -43,3 +43,12 @@ C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrar
 C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLib.resources
 C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
 C:\Users\Jackson\Desktop\Project\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.Cache
+C:\Users\Jackson\Documents\GitHub\XML-Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.config
+C:\Users\Jackson\Documents\GitHub\XML-Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe
+C:\Users\Jackson\Documents\GitHub\XML-Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
+C:\Users\Jackson\Documents\GitHub\XML-Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+C:\Users\Jackson\Documents\GitHub\XML-Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+C:\Users\Jackson\Documents\GitHub\XML-Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Documents\GitHub\XML-Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLib.resources
+C:\Users\Jackson\Documents\GitHub\XML-Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
+C:\Users\Jackson\Documents\GitHub\XML-Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.Cache

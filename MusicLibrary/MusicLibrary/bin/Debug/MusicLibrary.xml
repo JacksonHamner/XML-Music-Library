@@ -160,4 +160,5 @@
       <genre>Rock</genre>
     </album>
   </artist>
+  <artist name="Skrillex" />
 </musicLibrary>
